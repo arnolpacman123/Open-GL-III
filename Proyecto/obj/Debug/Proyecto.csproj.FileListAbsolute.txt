@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\bin\Debug\OpenTK.dll
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\bin\Debug\OpenTK.pdb
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\bin\Debug\OpenTK.xml
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\User\Documents\Materias de semestre 1-2021\Programación Gráfica\Tareas\TAREA #4\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
